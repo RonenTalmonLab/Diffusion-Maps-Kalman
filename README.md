@@ -5,4 +5,4 @@ T. Shnitzer, R. Talmon and J.J. Slotine, "Diffusion Maps Kalman Filter for a Cla
 submitted to IEEE Transactions on Signal Processing, 2019.
 (Link: https://arxiv.org/abs/1711.09598)
 
-In order to execute run main.m
+In order to execute run the file 'main.m'.
